@@ -1,4 +1,4 @@
-# .NET/C# REST API example for Jojo
+# .NET/C# REST API for Jojo Web App
 
 This is a simple example of the `REST API` that will be used for [Jojo Web App Project](https://github.com/AndyChhuon/jojo-soen341project2023).
 
